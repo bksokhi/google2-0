@@ -47,15 +47,11 @@ a {
   border-radius: 50%;
 }
 
-.navList i .avatar {
-  background-color: yellow;
-}
 
 /* logo */
 h1 {
   text-align: center;
-  font-family: 'Open sans', sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 9.5rem;
   margin-top: 10%;
 }
@@ -133,8 +129,8 @@ a:hover {
 }
 
 .search input:hover{
-  box-shadow: -2px +2px 5px #bebebe,
-              2px -2px 5px #ffffff;
+  box-shadow: 0px 0px 5px #bebebe,
+              0px 0px 5px #ffffff;
 }
 
 .searchButtons button:hover {

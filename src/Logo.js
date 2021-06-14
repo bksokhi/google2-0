@@ -4,7 +4,7 @@ function Logo() {
         return (
             
             <div className="logo">
-                <h1>
+                <h1 id="product-sans">
                     <span className="g">G</span>
                     <span className="o-1">o</span>
                     <span className="o-2">o</span>
